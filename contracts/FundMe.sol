@@ -8,7 +8,7 @@ import "./PriceConvertor.sol";
 
 /**
  * @title A contract for crowd funding
- * @author Rakesh Barman
+ * @author Rakesh
  * @notice This contract allows users to fund a project and the owner to withdraw funds
  * @dev This implements Chainlink price feeds as our library
  */
